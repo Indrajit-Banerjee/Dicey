@@ -1,5 +1,5 @@
 # Dicey
-An application, replacement for dice.
+
 A new Flutter project.
 
 ## Getting Started
